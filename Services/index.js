@@ -83,12 +83,12 @@ export const getPostDetails = async (slug) => {
     }
   `;
 
-  const result = await request(graphqlAPI, query, { slug });
+  const result = await request(graphqlAPI, query, {slug});
 
   return result.post;
 };
 
-export const getSimilarPosts = async (categories, slug) => {
+export const getSimilarPosts = async (slug) => {
   const query = gql`
     query GetPostDetails($slug: String!, $categories: [String!]) {
       posts(
@@ -104,7 +104,7 @@ export const getSimilarPosts = async (categories, slug) => {
       }
     }
   `;
-  const result = await request(graphqlAPI, query, { slug, categories });
+  const result = await request(graphqlAPI, query, {slug});
 
   return result.posts;
 };
