@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React, { useState, useEffect } from "react";
 import moment from "moment";
 import Link from "next/link";
@@ -14,6 +15,7 @@ const PostWidget = ({ categories, slug }) => {
     } else {
       getRecentPosts().then((result) => setRelatedPosts(result));
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [slug]);
 
   return (
