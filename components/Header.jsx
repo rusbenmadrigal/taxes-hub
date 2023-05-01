@@ -18,7 +18,7 @@ const Header = () => {
             src="/images/logo.svg"
             height="200"
             width="300"
-            alt="Crypto-Logo"
+            alt="Tax Mustache"
           ></Image>
           </Link>
         </div>
