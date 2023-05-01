@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { getCategories } from "../Services";
+import Image from "next/image";
 
 const Header = () => {
   const [categories, setCategories] = useState([]);
@@ -11,11 +12,13 @@ const Header = () => {
     <div className="container mx-auto px-10 mb-8">
       <div className="border-b w-full inline-block border-blue-400 py-8">
         <div className="md:float-left block">
-          <Link href="/">
-            <span className="cursor-ointer font-bold text-4xl text-white">
-              GraphCMS
-            </span>
-          </Link>
+          <Image
+            class="transition duration-500 transform hover:-translate-y-1 inline-block"
+            src="/images/logo.svg"
+            height="200"
+            width="300"
+            alt="Crypto-Logo"
+          ></Image>
         </div>
         <div className="hidden md:float-left md:contents">
           {categories.map((category) => (
