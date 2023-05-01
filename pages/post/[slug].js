@@ -7,6 +7,10 @@ import {
   Author,
   Loader,
 } from "../../components";
+
+
+
+
 import { useRouter } from "next/router";
 
 const PostDetails = ({ post }) => {
@@ -28,6 +32,7 @@ const PostDetails = ({ post }) => {
               slug={post.slug}
               categories={post?.categories?.map((category) => category.slug)}
             />
+            
             <Categories />
           </div>
         </div>

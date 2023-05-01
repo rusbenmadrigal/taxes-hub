@@ -103,6 +103,7 @@ const PostDetail = ({ post }) => {
               </span>
             </div>
           </div>
+
           <h1 className="mb-8 text-3xl font-semibold">{post.title}</h1>
           {post.content.raw.children.map((typeObj, index) => {
             const children = typeObj.children.map((item, itemindex) =>
@@ -112,6 +113,8 @@ const PostDetail = ({ post }) => {
             return getContentFragment(index, children, typeObj, typeObj.type);
           })}
         </div>
+        <title>{post.seoMetaTitle}</title>
+        <meta name="description" content={post.seoMetaDescription} />
       </div>
     </>
   );
