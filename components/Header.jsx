@@ -12,6 +12,7 @@ const Header = () => {
     <div className="container mx-auto px-10 mb-8">
       <div className="border-b w-full inline-block border-blue-400 py-8">
         <div className="md:float-left block">
+          <Link href="/">
           <Image
             class="transition duration-500 transform hover:-translate-y-1 inline-block"
             src="/images/logo.svg"
@@ -19,6 +20,7 @@ const Header = () => {
             width="300"
             alt="Crypto-Logo"
           ></Image>
+          </Link>
         </div>
         <div className="hidden md:float-left md:contents">
           {categories.map((category) => (
