@@ -2,6 +2,7 @@ import React from "react";
 import moment from "moment";
 
 const BASE_PATH = "https://taxmustache.com/post/";
+
 const PostDetail = ({ post }) => {
   const getContentFragment = (index, text, obj, type) => {
     let modifiedText = text;
@@ -70,6 +71,9 @@ const PostDetail = ({ post }) => {
             className="object-top h-full w-full object-cover  shadow-lg rounded-t-lg lg:rounded-lg"
           />
         </div>
+        <title>{post.seoMetaTitle}</title>
+        <meta name="description" content={post.seoMetaDescription} />
+        <link rel="canonical" href={BASE_PATH + post.slug} />
         <div className="px-4 lg:px-0">
           <div className="flex items-center mb-8 w-full">
             <div className="hidden md:flex items-center justify-center lg:mb-0 lg:w-auto mr-8 items-center">
@@ -114,9 +118,6 @@ const PostDetail = ({ post }) => {
             return getContentFragment(index, children, typeObj, typeObj.type);
           })}
         </div>
-        <title>{post.seoMetaTitle}</title>
-        <meta name="description" content={post.seoMetaDescription} />
-        <link rel="canonical" href={BASE_PATH + post.slug} />
       </div>
     </>
   );
