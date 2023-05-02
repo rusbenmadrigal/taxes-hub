@@ -115,6 +115,7 @@ const PostDetail = ({ post }) => {
         </div>
         <title>{post.seoMetaTitle}</title>
         <meta name="description" content={post.seoMetaDescription} />
+        <link rel="canonical" href={post.slug} />
       </div>
     </>
   );
