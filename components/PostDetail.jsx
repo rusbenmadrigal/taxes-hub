@@ -1,6 +1,7 @@
 import React from "react";
 import moment from "moment";
 
+const BASE_PATH = "https://taxmustache.com/post/";
 const PostDetail = ({ post }) => {
   const getContentFragment = (index, text, obj, type) => {
     let modifiedText = text;
@@ -115,7 +116,7 @@ const PostDetail = ({ post }) => {
         </div>
         <title>{post.seoMetaTitle}</title>
         <meta name="description" content={post.seoMetaDescription} />
-        <link rel="canonical" href={post.slug} />
+        <link rel="canonical" href={BASE_PATH + post.slug} />
       </div>
     </>
   );
