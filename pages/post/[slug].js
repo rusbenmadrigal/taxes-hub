@@ -6,6 +6,7 @@ import {
   PostWidget,
   Author,
   Loader,
+  Footer,
 } from "../../components";
 
 
@@ -37,6 +38,7 @@ const PostDetails = ({ post }) => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
