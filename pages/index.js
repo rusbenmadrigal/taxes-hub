@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-key */
 import Head from "next/head";
-import { PostCard, Categories, PostWidget } from "@/components";
+import { PostCard, Categories, PostWidget, Footer } from "@/components";
 import { getPosts } from "../Services";
 import { FeaturedPosts } from "../sections";
 
@@ -25,6 +25,7 @@ export default function Home({ posts }) {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
