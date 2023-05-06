@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const Footer = () => (
   <footer class="bg-white dark:bg-gray-900 rounded-lg">
@@ -22,15 +23,16 @@ const Footer = () => (
             </h2>
             <ul class="text-gray-600 dark:text-gray-400 font-medium">
               <li class="mb-4">
-                <a href="#" class="hover:underline">
-                  Financial Tips
-                </a>
+                <Link href="/category/news/" class="hover:underline">
+                  Financial News
+                </Link>
               </li>
               <li>
-                <a href="#" class="hover:underline">
-                  Mortages
-                </a>
+                <Link href="/category/articles/" class="hover:underline">
+                  Financial Tips
+                </Link>
               </li>
+              
             </ul>
           </div>
           <div>
