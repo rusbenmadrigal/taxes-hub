@@ -15,7 +15,7 @@ const PostWidget = ({ categories, slug }) => {
     } else {
       getRecentPosts().then((result) => setRelatedPosts(result));
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [slug]);
 
   return (
@@ -26,12 +26,12 @@ const PostWidget = ({ categories, slug }) => {
 
       {relatedPosts.map((post) => (
         <div key={post.title} className="flex items-center w-full mb-4">
-          <div className="w-16 flex-none">
+          <div className="flex-none">
             <img
               alt={post.title}
-              height="60px"
-              width="60px"
-              className="aling-middle rounded-full"
+              height="200px"
+              width="150px"
+              className="aling-middle rounded-lg"
               src={post.featuredImage.url}
             />
           </div>
