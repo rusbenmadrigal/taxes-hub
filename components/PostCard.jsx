@@ -7,17 +7,28 @@ const PostCard = ({ post }) => {
     <div className="bg-white shadow-lg rounded-lg p-0 lg:p-8 pb-12 mb-8">
       <div className="relative overflow-hidden shadow-md pb-80 mb-6">
         {
+          <a href = {`/post/${post.slug}`}>
           <img
             src={post.featuredImage.url}
             alt={post.title}
             className="object-top absolute h-80 w-full object-cover shadow-lg rounded-t-lg lg:rounded-lg"
           />
+          </a>
         }
+       
       </div>
-      <h1 className="transition duration-700 text-center mb-8 cursor-pointer hover:text-pink-600 text-3xl font-semibold">
-        <link href={`/post/${post.slug}`} />
-        {post.title}
-      </h1>
+      <div>
+        <h1 className="transition duration-700 text-center mb-8 cursor-pointer hover:text-pink-600 text-3xl font-semibold">
+          <Link
+            href={`/post/${post.slug}`}
+            key={post.title}
+            className="text-md"
+          >
+            {post.title}
+          </Link>
+        </h1>
+      </div>
+
       <div className="block lg:flex text-center items-center justify-center mb-8 w-full">
         <div className="flex items-center justify-center mb-4 lg:mb-0 w-full lg:w-auto mr-8">
           <img
@@ -27,6 +38,7 @@ const PostCard = ({ post }) => {
             width="30px"
             className="aling-middlw rounded-full"
           />
+
           <p className="inline align-middle text-gray-700 ml-2 text-lg">
             {post.author.name}
           </p>
