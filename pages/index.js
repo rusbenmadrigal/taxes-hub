@@ -8,8 +8,8 @@ export default function Home({ posts }) {
   return (
     <div className="container mx-auto px-10 mb-8">
       <Head>
-        <title>We help you understand and control your personal finances</title>
-        <link rel="icon" href="/images/favicon.png" />
+        <title>Practical tips to control your taxes and personal finances.</title>
+        <link rel="icon" href="/images/favicon.png" alt="Tax Mustache"/>
       </Head>
       <FeaturedPosts />
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
