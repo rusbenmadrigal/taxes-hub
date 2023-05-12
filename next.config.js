@@ -7,3 +7,16 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/post/mortgage-rates',
+        destination: '/posts/mortgage-rates',
+        permanent: true,
+      },
+    ]
+  },
+}
