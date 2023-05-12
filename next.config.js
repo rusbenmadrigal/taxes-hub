@@ -7,16 +7,20 @@ const nextConfig = {
 };
 
 module.exports = {
+  // All the other config options you may have...
   async redirects() {
-    return [
-      {
-        source: '/post/mortgage-rates',
-        destination: '/posts/mortgage-rates',
-        permanent: true,
-      },
-    ]
-  },
-}
+      return [
+          {
+              // What the user typed in the browser
+              source: '/post/ability-to-pay-taxation',
+              // Where the user will be redirected to
+              destination: '/posts/ability-to-pay-taxation',
+              // If the destination is a permanent redirect (308)
+              permanent: true
+          }
+      ];
+  }
+};
 
 module.exports = nextConfig;
 
