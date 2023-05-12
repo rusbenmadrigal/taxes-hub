@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Make All Right Financial Moves | Daily Financial Insights",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo-light.svg",
+    "logo_width": "250",
+    "logo_height": "100",
+    "logo_text": "Tax Mustache"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "GTM-WVBT7Z4",
+    "footer_content": "Improve your tax and personal finance filing.",
+    "copyright": "Created by Tax Mustache New York 🗽"
+  },
+  "metadata": {
+    "meta_author": "Michael Smith",
+    "meta_image": "/images/og-image.jpeg",
+    "meta_description": "Make all right financial moves with our daily financial insights. A healthy economy starts with good financial education."
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "Make all the right finances moves, updated content on taxes and personal finance."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Newsletter",
+      "content": "Join our list of subscribers and receive high quality financial content every month.",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
