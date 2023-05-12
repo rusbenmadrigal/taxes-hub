@@ -11,6 +11,11 @@ const nextConfig = {
         destination: "/posts/ability-to-pay-taxation",
         permanent: true,
       },
+      {
+        source: "/post/mortgage-rates",
+        destination: "/posts/mortgage-rates",
+        permanent: true,
+      },
     ];
   },
 };
