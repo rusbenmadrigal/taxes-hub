@@ -10,11 +10,28 @@ draft: false
 
 In this article, we explain everything related to the process of buying a home in the United States through a mortgage. In addition, our experts have added useful tips that you should take into account before signing an agreement with the bank.
 
+### Table
+
+|        Product         | Interest rate |    APR |
+| :--------------------: | :-----------: | -----: |
+|   30-year fixed-rate   |    6.667%     | 6.723% |
+|   20-year fixed-rate   |    6.055%     | 6.162% |
+|   15-year fixed-rate   |    5.398%     | 5.591% |
+|   15-year fixed-rate   |    5.398%     | 5.591% |
+|       7-year ARM       |    6.443%     | 7.183% |
+|       5-year ARM       |    6.070%     | 7.159% |
+|       3-year ARM       |    6.125%     | 7.204% |
+| 30-year fixed-rate FHA |    5.768%     | 6.673% |
+| 30-year fixed-rate VA  |    5.426%     | 5.702% |
+
 ### **What is a mortgage?**
 
 Most people do not have the money to buy a house outright. Instead, they turn to a mortgage, which is a loan to buy a house with a credit model, which usually has low interest rates (depending on many factors). After making a down payment of between 3% and 25%, they obtain a mortgage to cover the remaining costs of the home purchase.
 
-Mortgages are established in such a way that the loan is amortized over a certain period agreed between the financial entity and the debtor, called term. The most common term for a mortgage is 30 years. 
+
+### Important
+
+> Mortgages are established in such a way that the loan is amortized over a certain period agreed between the financial entity and the debtor, called term. The most common term for a mortgage is 30 years.
 
 Each payment includes a combination of principal and interest, as well as property taxes and, if necessary, mortgage insurance (homeowner's insurance may be included, or the homeowner may pay the insurer directly). When deciding to take a mortgage loan, the main thing is the original amount of money you borrowed, while the interest is what you are charged for borrowing the money.
 
@@ -50,7 +67,7 @@ We have already seen some of the most common factors that fall into the category
 
 #### **Factors you cannot control**
 
-We have already seen that there are factors that, as individuals, we can control, since they are linked to our behavior and financial responsibility. However, there are macroeconomic factors that are not within our responsibilities and are mainly issues that depend on the national economy and the influence of foreign markets. 
+We have already seen that there are factors that, as individuals, we can control, since they are linked to our behavior and financial responsibility. However, there are macroeconomic factors that are not within our responsibilities and are mainly issues that depend on the national economy and the influence of foreign markets.
 
 #### **The U.S. economy**
 
