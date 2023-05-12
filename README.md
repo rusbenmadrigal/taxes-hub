@@ -1,1 +1,3 @@
-<h1 align=center>Tax Mustache</h1>
+<<<<<<< HEAD
+<h1 align=center>Next JS Web App</h1>
+=======
