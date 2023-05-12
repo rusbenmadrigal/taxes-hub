@@ -26,7 +26,7 @@ In this article, we explain everything related to the process of buying a home i
 
 ### **What is a mortgage?**
 
-Most people do not have the money to buy a house outright. Instead, they turn to a mortgage, which is a loan to buy a house with a credit model, which usually has low interest rates (depending on many factors). After making a down payment of between 3% and 25%, they obtain a mortgage to cover the remaining costs of the home purchase.
+Most people do not have the money to buy a house outright. Instead, they turn to a mortgage, which is a loan to buy a house with a credit model, which usually has low interest rates (depending on many factors). After making a down payment of between 3% and 25%, they obtain a mortgage to cover the remaining costs of the home [purchase](/posts/ability-to-pay-taxation).
 
 
 ### Important
