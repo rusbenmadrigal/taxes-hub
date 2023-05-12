@@ -1,6 +1,7 @@
 ---
-title: "What is ability-to-pay taxation?"
-date: 2023-05-04T01:00:00Z
+title: " Understanding Ability-to-Pay Taxation: Definition and Implications"
+description: "Learn about ability-to-pay taxation, its meaning, and the impact it has on taxpayers. Discover how it works and why it's important."
+date: 2023-05-12
 image: /images/post/taxation.jpeg
 categories: ["taxes"]
 featured: true
