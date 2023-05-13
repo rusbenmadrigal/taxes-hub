@@ -4,7 +4,7 @@ description: "Learn about ability-to-pay taxation, its meaning, and the impact i
 date: 2023-05-12
 image: /images/post/taxation.jpeg
 categories: ["taxes"]
-featured: false
+featured: true
 draft: false
 ---
 

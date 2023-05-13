@@ -1,6 +1,6 @@
 ---
 title: "2023 Mortgage Rates: What to Expect and How to Prepare"
-description: "tay ahead of the game in 2023! Get insights on mortgage rates, trends, and tips on how to navigate the real estate market."
+description: "Stay ahead of the game in 2023! Get insights on mortgage rates, trends, and tips on how to navigate the real estate market."
 date: 2023-05-04T01:00:00Z
 image: /images/post/mortage.jpeg
 categories: ["mortgages"]
