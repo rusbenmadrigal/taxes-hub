@@ -12,9 +12,9 @@ The belief that there is only one optimal day a week to save on flights - and th
 
 The reality is that flight prices are constantly changing at any time of the day, depending on a variety of factors, especially the demand for space, which adjusts to demand in real time. Keep in mind that airlines do not restock on the same day week after week, so you won't get a bargain if you wait until Tuesday to book, as there may be events that raise the price for that specific day. However, you may find some savings if you are willing to fly on a Tuesday or Wednesday, as long as there is not some kind of special event during those days, e.g., a concert, unexpected vacation, some major event.
 
-#### You should keep in mind
+### You should keep in mind
 
-Just because it's a Tuesday doesn't mean that tickets will be at a great price. If there is an event on that Tuesday that causes an increase in demand for flights, this will cause your ticket prices to increase even more than on weekends.
+> Just because it's a Tuesday doesn't mean that tickets will be at a great price. If there is an event on that Tuesday that causes an increase in demand for flights, this will cause your ticket prices to increase even more than on weekends.
 
 ### The Best Days to Book a Flight
 
