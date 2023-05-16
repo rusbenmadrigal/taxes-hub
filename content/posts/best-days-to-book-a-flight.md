@@ -5,7 +5,7 @@ date: 2023-05-12
 image: /images/post/plane.jpg
 categories: ["travel"]
 featured: true
-author: "Josh Smith"
+author: "Tax Mustache Team"
 draft: false
 ---
 

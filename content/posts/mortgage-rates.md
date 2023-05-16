@@ -5,7 +5,7 @@ date: 2023-05-04T01:00:00Z
 image: /images/post/mortage.jpeg
 categories: ["mortgages"]
 featured: true
-author: "Josh Smith"
+author: "Tax Mustache Team"
 draft: false
 ---
 

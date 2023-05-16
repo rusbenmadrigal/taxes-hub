@@ -5,7 +5,7 @@ date: 2023-05-12
 image: /images/post/taxation.jpeg
 categories: ["taxes"]
 featured: true
-author: "Josh Smith"
+author: "Tax Mustache Team"
 draft: false
 ---
 

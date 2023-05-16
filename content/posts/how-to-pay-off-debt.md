@@ -5,7 +5,7 @@ date: 2023-05-16
 image: /images/post/debt.jpg
 categories: ["money"]
 featured: false
-author: "Josh Smith"
+author: "Tax Mustache Team"
 draft: false
 ---
 
