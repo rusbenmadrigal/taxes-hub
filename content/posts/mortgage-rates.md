@@ -5,7 +5,10 @@ date: 2023-05-04T01:00:00Z
 image: /images/post/mortage.jpeg
 categories: ["mortgages"]
 featured: true
+author: "Josh Smith"
 draft: false
+---
+<link rel="canonical" href="https://taxmustache.com/posts/mortgage-rates" />
 ---
 
 In this article, we explain everything related to the process of buying a home in the United States through a mortgage. In addition, our experts have added useful tips that you should take into account before signing an agreement with the bank.

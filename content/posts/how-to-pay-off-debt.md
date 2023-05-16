@@ -4,7 +4,7 @@ description: "Take control of your finances and learn proven methods to pay off 
 date: 2023-05-16
 image: /images/post/debt.jpg
 categories: ["money"]
-canonical: true
+featured: false
 author: "Josh Smith"
 draft: false
 ---

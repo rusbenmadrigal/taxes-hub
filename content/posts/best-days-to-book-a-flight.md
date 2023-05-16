@@ -5,7 +5,10 @@ date: 2023-05-12
 image: /images/post/plane.jpg
 categories: ["travel"]
 featured: true
+author: "Josh Smith"
 draft: false
+---
+<link rel="canonical" href="https://taxmustache.com/posts/best-days-to-book-a-flight" />
 ---
 
 The belief that there is only one optimal day a week to save on flights - and that day is Tuesday - is a legend, but today we'll show you that other days are also favorable for travel to and from the United States. And like any good legend, there's some truth to it... but it's not the whole story.

@@ -5,7 +5,10 @@ date: 2023-05-12
 image: /images/post/taxation.jpeg
 categories: ["taxes"]
 featured: true
+author: "Josh Smith"
 draft: false
+---
+<link rel="canonical" href="https://taxmustache.com/posts/ability-to-pay-taxation" />
 ---
 
 According to the American philosophy of **ability-to-pay taxation**, ability-to-pay taxation holds that taxes should be levied based on each taxpayer's ability to pay. The idea is that individuals, businesses and corporations with higher incomes can and should pay more taxes.
