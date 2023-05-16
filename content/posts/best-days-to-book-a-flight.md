@@ -8,8 +8,6 @@ featured: true
 author: "Josh Smith"
 draft: false
 ---
-<link rel="canonical" href="https://taxmustache.com/posts/best-days-to-book-a-flight" />
----
 
 The belief that there is only one optimal day a week to save on flights - and that day is Tuesday - is a legend, but today we'll show you that other days are also favorable for travel to and from the United States. And like any good legend, there's some truth to it... but it's not the whole story.
 
@@ -73,3 +71,5 @@ Then, if you find a better deal, you can cancel your flight and rebook (on the s
 #### 4: Be flexible on destination, airport and dates
 
 The golden rule of cheap travel remains: be flexible. Use Google Flights to see if there are cheaper places to go by leaving the destination field blank when searching. Check nearby airports if you've decided on a destination. And use calendar views to find lower prices on different dates. After all, the best day to book a flight and the best day to fly is when it's cheapest, and that can vary depending on when and where you're going.
+
+<link rel="canonical" href="https://taxmustache.com/posts/best-days-to-book-a-flight" />

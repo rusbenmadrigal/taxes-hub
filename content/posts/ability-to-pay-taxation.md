@@ -8,8 +8,6 @@ featured: true
 author: "Josh Smith"
 draft: false
 ---
-<link rel="canonical" href="https://taxmustache.com/posts/ability-to-pay-taxation" />
----
 
 According to the American philosophy of **ability-to-pay taxation**, ability-to-pay taxation holds that taxes should be levied based on each taxpayer's ability to pay. The idea is that individuals, businesses and corporations with higher incomes can and should pay more taxes.
 
@@ -46,3 +44,5 @@ Critics of progressive taxation argue that it is fundamentally unfair. They say 
 ### **Progressive taxation and inequality**
 
 Although the United States continues to maintain a progressive tax system, tax rates for the wealthy have plummeted in recent decades. When President Ronald Reagan took office in 1981, the top personal income tax bracket was 70%. In 2020, the top rate for incomes is 37%. Meanwhile, inequality has reached levels not seen in at least a century. The richest 1% now own more wealth than the poorest 90%.
+
+<link rel="canonical" href="https://taxmustache.com/posts/ability-to-pay-taxation" />

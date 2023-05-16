@@ -8,13 +8,10 @@ featured: false
 author: "Josh Smith"
 draft: false
 ---
-<link rel="canonical" href="https://taxmustache.com/posts/how-to-pay-off-debt" />
----
 
 We all had or have debts at one time or another. The reality is that, nowadays, many of the goods we want to acquire need a financial commitment to achieve what we want. For example, if we want to buy a car, we may be able to find a second-hand one, but maybe it is not the one we want, so we resort to a credit to buy a new car from a dealer.
 
 The same can happen with many other examples. The reality is that our current economy is based on debt, and in some cases debt can be considered as "good debt", since it allows us to acquire what we want to buy and at which, we still do not have all the necessary money, with the option to pay at a certain time, adding a percentage to the capital doubt, which is known as debt interest.
-
 
 ### When is there a problem?
 
@@ -75,3 +72,5 @@ A credit card with a 0% interest balance transfer or a debt consolidation loan a
 Sometimes debt can be too much. If you're finding it difficult to keep [paying](https://taxmustache.com/posts/ability-to-pay-taxation) your debts and your total debt exceeds 50% of your gross annual income, it may be time to seek outside help.
 
 Debt relief options, such as debt management plans from a nonprofit credit counseling agency and bankruptcy, can give you the relief you need to put your debts behind you. Otherwise, paying off what you owe could take years and get in the way of other financial goals, such as saving for retirement or a down payment on a home.
+
+<link rel="canonical" href="https://taxmustache.com/posts/how-to-pay-off-debt" />

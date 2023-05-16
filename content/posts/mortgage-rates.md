@@ -8,8 +8,6 @@ featured: true
 author: "Josh Smith"
 draft: false
 ---
-<link rel="canonical" href="https://taxmustache.com/posts/mortgage-rates" />
----
 
 In this article, we explain everything related to the process of buying a home in the United States through a mortgage. In addition, our experts have added useful tips that you should take into account before signing an agreement with the bank.
 
@@ -113,3 +111,5 @@ At 4%, the principal and monthly interest cost $1,193.54. At 4.25%, the principa
 Mortgage rates vary not only from day to day, but from hour to hour. To know what rate you will pay, you need the rate you are offered to stop changing. The mortgage rate lock is the lender's guarantee that you will pay the agreed interest rate if you close the deal before a certain date. The locked rate will not change, no matter what happens to interest rates in the meantime.
 
 It's a good idea to lock in the rate when you're approved for a mortgage with an interest rate you're comfortable with. Check with your loan officer about the timing of locking the rate. Ideally, the rate lock should extend a few days after the scheduled closing date, so that you can get the agreed-upon interest rate, even if the closing is delayed a few days.
+
+<link rel="canonical" href="https://taxmustache.com/posts/mortgage-rates" />
