@@ -8,12 +8,13 @@ canonical: true
 author: "Josh Smith"
 draft: false
 ---
+<link rel="canonical" href="https://taxmustache.com/posts/how-to-pay-off-debt" />
+---
 
 We all had or have debts at one time or another. The reality is that, nowadays, many of the goods we want to acquire need a financial commitment to achieve what we want. For example, if we want to buy a car, we may be able to find a second-hand one, but maybe it is not the one we want, so we resort to a credit to buy a new car from a dealer.
 
 The same can happen with many other examples. The reality is that our current economy is based on debt, and in some cases debt can be considered as "good debt", since it allows us to acquire what we want to buy and at which, we still do not have all the necessary money, with the option to pay at a certain time, adding a percentage to the capital doubt, which is known as debt interest.
 
-<link rel="canonical" href="https://taxmustache.com/posts/how-to-pay-off-debt" />
 
 ### When is there a problem?
 
