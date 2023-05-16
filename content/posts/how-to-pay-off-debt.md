@@ -14,7 +14,9 @@ The same can happen with many other examples. The reality is that our current ec
 
 ### When is there a problem?
 
-The origin by which many people (including myself) came to have financial problems, begin when the person gets over indebted, begins to make minimum payments to their credit cards, borrow money to go on a trip, acquires goods that you do not really need, etc..
+The origin by which many people (including myself) came to have financial problems, begin when the person gets over indebted, begins to make minimum payments to their credit cards, borrow money to go on a trip, acquires goods that you do not really need, etc.
+
+> Debts can be considered "good debts" as long as they have a low interest rate and the payment does not interfere with your other expenses, i.e., it does not mean that you will be over-indebted.
 
 In my personal case, I got to have a salary of $5,500 net monthly, living in Costa Rica (as a digital nomad) and still the salary was not enough, I worked for 2 companies in the USA, remotely, but my debts and personal loans with different entities in USA did not allow me to enjoy that money, which in a country like Costa Rica would be supposed to live better than in my native New York; however, it was not so, and this was due to my personal debts, which had exceeded my maximum power of indebtedness.
 
@@ -56,7 +58,6 @@ Paying off debt is a financial and psychological commitment. Just as you have to
 
 If a few small quick wins early in the process will help keep you motivated, the debt snowball method may be right for you. With this tactic, you allocate as much extra money as you can to pay off the smallest debt first (while covering at least the minimums on the other debts). Once paid off, you invest the money that had been earmarked for the first debt into paying off the next largest debt, and so on, until all debts are paid off.
 
-  
 But if you're more into delaying gratification and [saving a little money](https://taxmustache.com/mortgage-calculator), the debt avalanche method may be for you. With this strategy, you focus on paying off the debt with the highest interest rate first. Always focusing on wiping out the debt with the highest interest can save you money overall and can also speed up your debt-free date.
 
 #### 6: Consider Debt Consolidation
