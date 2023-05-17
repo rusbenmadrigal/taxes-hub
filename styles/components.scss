@@ -19,7 +19,7 @@
   li {
     @apply inline-block;
     a {
-      @apply block h-9 w-9 rounded-full border bg-primary text-center text-white;
+      @apply block h-9 w-9 rounded-lg border bg-primary text-center text-white;
       svg {
         @apply m-auto h-9;
       }

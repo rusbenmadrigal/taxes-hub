@@ -155,7 +155,7 @@ const Sidebar = ({ posts, categories, className }) => {
                   >
                     {post.frontmatter.image && (
                       <ImageFallback
-                        className="mr-3 h-[85px] w-[85px] rounded-full object-cover"
+                        className="mr-3 h-[85px] w-[85px] rounded-lg object-cover"
                         src={post.frontmatter.image}
                         alt={post.frontmatter.title}
                         width={105}
