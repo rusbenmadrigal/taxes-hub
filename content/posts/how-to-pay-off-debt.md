@@ -3,7 +3,7 @@ title: "How to Pay Off Debt Quickly: 7 Expert Tips"
 description: "Take control of your finances and learn proven methods to pay off debt fast. Discover expert tips and strategies for debt repayment success."
 date: 2023-05-16
 image: /images/post/debt.jpg
-categories: ["financial education"]
+categories: ["education"]
 featured: false
 author: "Tax Mustache Team"
 draft: false
