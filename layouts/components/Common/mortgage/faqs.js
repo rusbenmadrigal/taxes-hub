@@ -47,7 +47,7 @@ export default function MortgageFqas() {
       </Accordion>
       <Accordion open={open === 2} icon={<Icon id={2} open={open} />}>
         <AccordionHeader onClick={() => handleOpen(2)}>
-          How to get a mortgage?
+          How to get a mortgage today?
         </AccordionHeader>
         <AccordionBody>
           In the U.S. market there are many options for acquiring a mortgage,
